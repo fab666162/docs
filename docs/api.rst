@@ -13,8 +13,7 @@ The sproof-api can be accessed by using the following domain: https://www.sproof
 
 In the following we describe the API calls for the sproof objects.
 
-..note::
-    The params object provides fields to adjust the
+..note:: The params object provides fields to adjust the
         - items per page : ``per_page`` : ``Number``
         - request page: ``page`` : ``Number``  Page to request
         - entry : If you need only one specific entry use ``id``:``String``
